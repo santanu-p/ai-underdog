@@ -1,0 +1,6 @@
+{
+  "name": "AI Underdog",
+  "description": "An AI-powered tool to generate single-page websites from a text prompt. Features a live 'thinking process' view, code/preview toggle, and one-click Vercel deployment, all wrapped in a futuristic UI with background VFX.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
